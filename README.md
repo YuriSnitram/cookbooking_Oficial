@@ -1,17 +1,15 @@
-# React + Vite
+<h1> Projeto integrador Cookbooking</h1>
+<p> Desenvolvido como projeto front um site de receita com banco de dados</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h1>Ferramentas Utilizadas</h1>
+<h2> Figman </h2>
+<p> Figman para desenvolver o prototico e parte de UX e UI </p>
 
-Currently, two official plugins are available:
+<h2> Vscode</h2>
+<p>Vscode para desenvolvimento de todo código HTML, CSS e JavaScript (Reactjs)</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# cookingbook
-# receitas_att
-# receitas_att
-# CookBook
-# Receitas_Oficial
-# Receitas_Oficial
-# cookbookoficial
-# cookbooking_Oficial
-# cookbooking_Oficial
+<h2>Netily </h2>
+<p>Netlify utilizado para postar nosso Fron-end</p>
+
+<h2>Render</h2>
+<p>Utilizado para postar noss banco de dados</p>
