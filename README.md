@@ -9,7 +9,7 @@
 <p>Vscode para desenvolvimento de todo código HTML, CSS e JavaScript (Reactjs)</p>
 
 <h2>Netily </h2>
-<p>Netlify utilizado para postar nosso Fron-end</p>
+<p>Netlify utilizado para postar nosso Front-End</p>
 <a>Cookingbooksenac.netlify.app</a>
 
 <h2>Render</h2>
