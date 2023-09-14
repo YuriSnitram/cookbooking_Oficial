@@ -2,7 +2,7 @@
 <p> Desenvolvido como projeto front um site de receita com banco de dados</p>
 
 <h1>Ferramentas Utilizadas</h1>
-<h2> Figman </h2>
+<p> Figman </p>
 <p> Figman para desenvolver o prototico e parte de UX e UI </p>
 
 <h2> Vscode</h2>
@@ -10,6 +10,7 @@
 
 <h2>Netily </h2>
 <p>Netlify utilizado para postar nosso Fron-end</p>
+<a>Cookingbooksenac.netlify.app</a>
 
 <h2>Render</h2>
 <p>Utilizado para postar noss banco de dados</p>
